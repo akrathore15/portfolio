@@ -24,7 +24,7 @@ nav a {
 
 nav a:hover {
     background-color: #ddd;
-    color: black;
+    color: blue;
 }
 
 .animation_image {
@@ -173,7 +173,7 @@ footer {
 
 footer p {
     text-align: center;
-    color: white;
+    color: green;
 }
 
 .row_4 {
